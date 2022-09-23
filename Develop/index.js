@@ -30,6 +30,7 @@ const questions = [
                 console.log('Please enter your description!');
                 return false;
             }
+        }
     },
 
     {
@@ -44,6 +45,7 @@ const questions = [
                 console.log('Please enter your table of contents!');
                 return false;
             }
+        }
     },
 
     {
