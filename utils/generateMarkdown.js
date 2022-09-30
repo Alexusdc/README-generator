@@ -25,6 +25,12 @@ function generateMarkdown(data) {
 
   ## Usage 
   ${data.usage}
+
+  ## Github Username 
+  ${data.username}
+
+  ## Email
+  ${data.email}
 `;
 }
 

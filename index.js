@@ -68,14 +68,14 @@ const questions = [
 
     {
         type: 'input',
-        message: 'Please input your email',
-        name: 'email',
-        default: 'Usage',
-        validate: usageInput => {
-            if (usageInput) {
+        message: 'Please input your Github username',
+        name: 'username',
+        default: 'Github username',
+        validate: usernameInput => {
+            if (usernameInput) {
                 return true;
             } else {
-                console.log('Please enter your table of contents!');
+                console.log('Please enter your Github username!');
                 return false;
             }
         }
@@ -83,14 +83,14 @@ const questions = [
     
     {
         type: 'input',
-        message: 'Please describe the steps needed to use your project',
-        name: 'usage',
-        default: 'Usage',
-        validate: usageInput => {
-            if (usageInput) {
+        message: 'Please input your email',
+        name: 'email',
+        default: 'Email',
+        validate: emailInput => {
+            if (emailInput) {
                 return true;
             } else {
-                console.log('Please enter your table of contents!');
+                console.log('Please enter your email!');
                 return false;
             }
         }
