@@ -69,7 +69,7 @@ const questions = [
     {
         type: 'input',
         message: 'Please input your email',
-        name: 'usage',
+        name: 'email',
         default: 'Usage',
         validate: usageInput => {
             if (usageInput) {
