@@ -68,7 +68,7 @@ const questions = [
 
     {
         type: 'input',
-        message: 'Please describe the steps needed to use your project',
+        message: 'Please input your email',
         name: 'usage',
         default: 'Usage',
         validate: usageInput => {
