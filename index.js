@@ -79,6 +79,21 @@ const questions = [
                 return false;
             }
         }
+    },    
+    
+    {
+        type: 'input',
+        message: 'Please describe the steps needed to use your project',
+        name: 'usage',
+        default: 'Usage',
+        validate: usageInput => {
+            if (usageInput) {
+                return true;
+            } else {
+                console.log('Please enter your table of contents!');
+                return false;
+            }
+        }
     },
 ];
 
