@@ -15,7 +15,12 @@
 
   ## Usage 
 In order to use README-gen, please refer to the photos below as well as follow the steps 
- 
+ ![Screen Shot 2022-10-17 at 8 46 40 PM](https://user-images.githubusercontent.com/106570615/196331446-3af7379b-4745-4cf1-b9fa-f32225709a78.png)
+![Screen Shot 2022-10-17 at 8 48 02 PM](https://user-images.githubusercontent.com/106570615/196331483-2f28f81e-0c01-439f-8a0c-610d61beeac9.png)
+![Screen Shot 2022-10-17 at 8 48 31 PM](https://user-images.githubusercontent.com/106570615/196331489-bf53aa2e-38c2-4e2f-bddb-d6f91e7ba08e.png)
+![Screen Shot 2022-10-17 at 8 48 54 PM](https://user-images.githubusercontent.com/106570615/196331494-b4e0f28a-0b86-4266-856d-926aef8f1a5c.png)
+![Screen Shot 2022-10-17 at 8 49 13 PM](https://user-images.githubusercontent.com/106570615/196331501-3baf32a9-0234-41cb-a917-d98d7d823e18.png)
+
  
  
 Step 1: Fork the following repository 
