@@ -25,7 +25,7 @@ In order to use README-gen, please refer to the photos below as well as follow t
  
 Step 1: Fork the following repository 
 Step 2: Open Visual Code, and open the file for README-gen 
-Step 3: Right click on a file name, click “”
+Step 3: Right click on a file name, click “Open in integrated terminal”
 Step 4: In the command line, type “node index”
 Step 5: Follow the prompts to complete your README file 
 Step 6: Locate your new README file on the left hand side, and edit as needed 
